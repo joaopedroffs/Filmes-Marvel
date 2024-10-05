@@ -23,7 +23,7 @@ Antes de executar o projeto localmente, certifique-se de ter:
 
 1.Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/filmes-marvel.git
+git clone https://github.com/joaopedroffs/filmes-marvel.git
 ```
 2.Navegue até o diretório do projeto
 ```bash
