@@ -48,3 +48,9 @@ function pesquisar() {
     // Atualiza o conteúdo da seção HTML com os resultados da pesquisa
     section.innerHTML = resultados;
   }
+
+  document.getElementById("campo-pesquisa").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        pesquisar();
+    }
+})
