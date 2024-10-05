@@ -93,6 +93,46 @@ let dados = [
         link: "https://www.adorocinema.com/filmes/filme-129477/",
         tags: "thor deus martelos mjolnir asgard trovão raios trovao",
         dataLancamento: "29-04-2011"
+      },
+
+        {
+        titulo: "Homem-Aranha: De Volta ao Lar",
+        descricao: "Peter Parker, após os eventos de Capitão América: Guerra Civil, tenta equilibrar sua vida como um adolescente normal com as responsabilidades de ser o Homem-Aranha.",
+        link: "https://www.adorocinema.com/filmes/filme-209778/",
+        tags: "homem aranha escola tony stark tom holland nova york",
+        dataLancamento: "06-07-2017"
+      },
+    
+    {
+        titulo: "Homem-Aranha no Aranhaverso",
+        descricao: "Miles Morales, um adolescente negro do Brooklyn, é picado por uma aranha radioativa e ganha poderes. Ele precisa proteger seu mundo de uma ameaça interdimensional.",
+        link: "https://www.adorocinema.com/filmes/filme-233998/",
+        tags: "homem aranha animação multiverso miles morales",
+        dataLancamento: "10-01-2019"
+      },
+    
+    {
+        titulo: "Quarteto Fantástico (2005)",
+        descricao: "Uma equipe de astronautas, Reed Richards, Sue Storm, Johnny Storm e Ben Grimm, é exposta a uma tempestade de raios cósmicos durante uma missão espacial, ganhando poderes sobre-humanos. Reed se estica, Sue se torna invisível e pode criar campos de força, Johnny controla o fogo e Ben se transforma em uma criatura rochosa. Juntos, eles se tornam o Quarteto Fantástico, protegendo a terra de ameaças cósmicas.",
+        link: "https://www.adorocinema.com/filmes/filme-42946/",
+        tags: "super-heróis família radiação elástico invisível pedra fogo coisa",
+        dataLancamento: "08-07-2005"
+      },
+
+    {
+        titulo: "Deadpool",
+        descricao: "Wade Wilson, um ex-agente das forças especiais com um senso de humor sarcástico e violento, é submetido a um experimento que o deixa com habilidades de cura acelerada e um corpo desfigurado. Adotando o codinome Deadpool, ele busca vingança contra aqueles que o mutilaram e se torna um mercenário anti-herói.",
+        link: "https://www.adorocinema.com/filmes/filme-146349/",
+        tags: "anti-herói, comédia, violência, mercenário, mutante",
+        dataLancamento: "11-02-2016",
+      },
+
+    {
+        titulo: "Capitã Marvel",
+        descricao: "Carol Danvers, uma piloto da Força Aérea, tem seus genes alterados após um acidente envolvendo uma tecnologia Kree. Adquirindo superpoderes, ela se torna a Capitã Marvel e se junta à resistência Kree para impedir que os Skrulls invadam a Terra.",
+        link: "https://www.adorocinema.com/filmes/filme-141110/",
+        tags: "super-heroína, kree, skrulls, espaço, vingadores",
+        dataLancamento: "07-03-2019",
       }
     
 ];
