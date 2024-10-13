@@ -32,7 +32,8 @@ cd filmes-marvel
 3.Abra o Arquivo HTML:
 Abra o arquivo index.html em um navegador web moderno. Você pode fazer isso clicando duas vezes no arquivo ou arrastando-o para a janela do navegador.
 
-4.Interaja com o Site: Use a barra de busca para procurar os filmes da Marvel com base no nome, atores ou informações relacionadas.
+4.Interaja com o Site:
+Use a barra de busca para procurar os filmes da Marvel com base no nome, atores ou informações relacionadas.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer pull requests para melhorar o projeto.
