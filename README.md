@@ -25,12 +25,13 @@ Antes de executar o projeto localmente, certifique-se de ter:
 ```bash
 git clone https://github.com/joaopedroffs/filmes-marvel.git
 ```
-2.Navegue até o diretório do projeto
+2.Navegue até o diretório do projeto:
 ```bash
 cd filmes-marvel
 ```
-3.Abra o Arquivo HTML: 
+3.Abra o Arquivo HTML:
 Abra o arquivo index.html em um navegador web moderno. Você pode fazer isso clicando duas vezes no arquivo ou arrastando-o para a janela do navegador.
+
 4.Interaja com o Site: Use a barra de busca para procurar os filmes da Marvel com base no nome, atores ou informações relacionadas.
 
 ## Contribuições
